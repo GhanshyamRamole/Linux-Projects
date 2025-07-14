@@ -30,7 +30,7 @@ This project acts as a comprehensive reference and practice guide for mastering 
 
 ## 🖥️ Linux Architecture
 
-![Linux Architecture](https://upload.wikimedia.org/wikipedia/commons/8/8d/Linux_kernel_map.png)  
+![Linux Architecture](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GvmKAfV-MX9ebGD_)  
 *Figure: General Linux OS architecture overview.*
 
 - **Hardware**: CPU, memory, storage, and peripherals.
