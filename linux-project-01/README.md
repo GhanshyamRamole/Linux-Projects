@@ -2,6 +2,10 @@
 
 This project is designed to help learners and engineers master Linux by exploring its command-line tools, architecture, directory structure, file permissions, process management, package handling, user management, and more.
 
+
+![Liunx Image](https://lovhind.com/wp-content/uploads/2025/02/linux-operating-system.jpg)
+*Figure: Linux Image.*
+
 ---
 
 ## 📌 Table of Contents
@@ -42,7 +46,7 @@ This project acts as a comprehensive reference and practice guide for mastering 
 
 ## 📁 Linux Directory Structure
 
-![Linux File System](https://upload.wikimedia.org/wikipedia/commons/a/a2/Linux_filesystem_hierarchy_standard.png)  
+![Linux File System](https://media.licdn.com/dms/image/v2/D4D22AQF6f_Hh3cTbNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731906089455?e=1755129600&v=beta&t=9SIIZpKfWd44WOOBOPqXF6Fg71e_yCCNeeK5pvS1ko0)  
 *Figure: Linux Filesystem Hierarchy.*
 
 | Directory | Purpose |
