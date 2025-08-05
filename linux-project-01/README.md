@@ -47,9 +47,10 @@ This project acts as a comprehensive reference and practice guide for mastering 
 ## 📁 Linux Directory Structure
 
 ![Linux File System](https://media.licdn.com/dms/image/v2/D4D22AQF6f_Hh3cTbNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731906089455?e=1755129600&v=beta&t=9SIIZpKfWd44WOOBOPqXF6Fg71e_yCCNeeK5pvS1ko0)  
-   *Figure: Linux Filesystem Hierarchy.*
+ 
 
 The Linux directory structure is a hierarchical tree, with the root directory (/) at the top, containing all other directories and files. This structure, also known as the Filesystem Hierarchy Standard (FHS), is designed to organize files logically. Common top-level directories include /bin, /etc, /home, /var, and /usr, each serving specific system and user-related functions
+
 ---
 
 ## 🔧 Essential Linux Commands
