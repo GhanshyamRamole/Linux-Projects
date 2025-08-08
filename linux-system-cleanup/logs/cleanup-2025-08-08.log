@@ -1,0 +1,48 @@
+[2025-08-08 11:51:52] 📊 Disk usage before cleanup:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        14G  2.1G   12G  15% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  884K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M   86M  734M  11% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+[2025-08-08 11:51:52] 🗑 Cleaning /tmp...
+[2025-08-08 11:51:52] 🗑 Cleaning apt cache...
+[2025-08-08 11:51:54] 🗑 Clearing logs older than 7 days...
+[2025-08-08 11:51:54] 🗑 Searching and deleting large files (>100MB) in home directory...
+[2025-08-08 11:51:54] 🗑 Clearing journal logs...
+[2025-08-08 11:51:54] 📊 Disk usage after cleanup:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        14G  2.1G   12G  15% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  884K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M   86M  734M  11% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+[2025-08-08 11:51:54] ✅ Cleanup completed.
+[2025-08-08 11:52:32] 📊 Disk usage before cleanup:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        14G  2.1G   12G  15% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  884K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M   86M  734M  11% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+[2025-08-08 11:52:32] 🗑 Cleaning /tmp...
+[2025-08-08 11:52:32] 🗑 Cleaning apt cache...
+[2025-08-08 11:52:34] 🗑 Clearing logs older than 7 days...
+[2025-08-08 11:52:34] 🗑 Searching and deleting large files (>100MB) in home directory...
+[2025-08-08 11:52:34] 🗑 Clearing journal logs...
+[2025-08-08 11:52:35] 📊 Disk usage after cleanup:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        14G  2.1G   12G  15% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  884K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M   86M  734M  11% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+[2025-08-08 11:52:35] ✅ Cleanup completed.
